@@ -1,1 +1,1 @@
-# EmbeddedOS
+# EmbeddedOS수업
